@@ -60,6 +60,7 @@ conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0  pytorch-cuda
 pip install diffusers==0.31.0 transformers==4.44.0 accelerate==0.34.2 peft==0.12.0 datasets==2.20.0 prodigyopt
 pip install wandb==0.17.7 einops==0.8.0 sentencepiece==0.2.0 mmengine==0.10.4
 pip install braceexpand==0.1.7 webdataset==0.2.100
+pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu118
 ```
 
 ### 3. Login to Hugging Face
