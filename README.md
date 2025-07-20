@@ -16,7 +16,7 @@
   <sup>2</sup>The Australian National University &emsp;
   <sup>3</sup>The University of Electro-Communications Tokyo &emsp;
   <sup>4</sup>Peking University &emsp;
-  <sup>5</sup>Microsoft Research &emsp;
+  <sup>5</sup>Microsoft&emsp;
   <sup>6</sup>Canva Research
 </div>
 
