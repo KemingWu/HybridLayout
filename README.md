@@ -97,6 +97,8 @@ Use inference.py to simply have a try:
 ```
 python inference.py
 ```
+## 🔥 Contact
+If you have any questions, please feel free to contact [Keming Wu](https://kemingwu.github.io/) and [Yuhui Yuan](researcher.yuanyuhui@gmail.com).
 
 ## :mailbox_with_mail: Citation
 If you find this code useful in your research, please consider citing:
