@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td><img src="instance_diff_example.jpg" alt="gif5" width="150"></td>
+    <td><img src="assets\instance_diff_example.jpg" alt="gif5" width="150"></td>
     <td><img src="assets\dog_ours.jpg" alt="gif5" width="150"></td>
     <td><img src="assets\sa_11143675_style7.jpg" alt="gif1" width="150"></td>
     <td><img src="assets\sa_11143664_style2.jpg" alt="gif2" width="150"></td>
