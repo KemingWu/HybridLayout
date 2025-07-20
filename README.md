@@ -1,5 +1,31 @@
 <h1 align="center">Hybrid Layout Control for Diffusion Transformer: Fewer Annotations, Superior Aesthetics</h1>
+
+<div style="font-size: 1.25rem; text-align: center;">
+  <a href="https://kemingwu.github.io/" target="_blank">Keming Wu</a><sup>1*</sup>,
+  <a href="https://www.microsoft.com/en-us/research/" target="_blank">Junwen Chen</a><sup>3*</sup>,
+  <a href="https://www.microsoft.com/en-us/research/" target="_blank">Zhanhao Liang</a><sup>2*</sup>,
+  <a href="https://www.microsoft.com/en-us/research/" target="_blank">Yinuo Wang</a><sup>1*</sup>,
+  <a href="https://www.microsoft.com/en-us/research/" target="_blank">Ji Li</a><sup>5</sup>,
+  <a href="https://scholar.google.com/citations?user=NeCCx-kAAAAJ&hl=en" target="_blank">Chao Zhang</a><sup>4</sup>,
+  <a href="https://binwangthss.github.io/" target="_blank">Bin Wang</a><sup>1</sup>,
+  <a href="https://www.microsoft.com/en-us/research/people/yuyua/" target="_blank">Yuhui Yuan</a><sup>6*</sup>
+</div>
+
+<div style="font-size: 1rem; text-align: center; margin-top: 0.5rem;">
+  <sup>1</sup>Tsinghua University &emsp;
+  <sup>2</sup>The Australian National University &emsp;
+  <sup>3</sup>The University of Electro-Communications Tokyo &emsp;
+  <sup>4</sup>Peking University &emsp;
+  <sup>5</sup>Microsoft Research &emsp;
+  <sup>6</sup>Canva Research
+</div>
+
+<div style="font-size: 0.9rem; text-align: center; margin-top: 0.3rem;">
+  <sup>*</sup>Work done at Microsoft Research Asia
+</div>
+
 <h3 align="center">🌟ICCV 2025🌟</h3>
+
 <p align="center">
   <a href="https://arxiv.org/abs/2503.20672"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
   <a href='https://hybrid-layout-msra.github.io/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
@@ -29,8 +55,7 @@
 ## :fire: News
 
 - [2025/7/20] Repository is initialized.
-- [2025/6/26] <span style="color: red; font-weight: bold;">🎉🎉🎉 HybridLayout is accepted by <span style="color: red; font-weight: bold;">ICCV 2025</span>!</span>
-
+- [2025/6/26] 🎉🎉🎉 HybridLayout is accepted by **ICCV 2025**! 🎉🎉🎉
 
 
 <!-- TODO List -->
