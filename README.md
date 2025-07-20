@@ -25,24 +25,22 @@
   </tr>
 </table>
 
-<span style="font-size: 16px; font-weight: 600;">This repository supports article-level visual text rendering of business content (infographics and slides) based on ultra-dense layouts
 
-<!-- Features -->
-## 🌟 Features
-- **Long context length**: Supports ultra-dense layouts with 50+ layers and article-level descriptive prompts with more than 1000 tokens, and can generate high-quality business content with up to 2240*896 resolution.
-- **Powerful visual text rendering**: Supports article-level visual text rendering in ten different languages and maintains high spelling accuracy.
-- **Image generation diversity and flexibility**: Supports layer-wise detail refinement through layout conditional CFG.
+## :fire: News
+
+- [2025/7/20] Repository is initialized.
+- [2025/6/26] 🎉🎉🎉 HybridLayout is accepted by ICCV 2025!
 
 
 <!-- TODO List -->
 ## 🚧 TODO List
-- [x] Release inference code and pretrained model
+- [ ] Release inference code and pretrained model
 - [ ] Release training code
 
 
 ## Table of Contents
 - [Environment Setup](#environment-setup)
-- [Testing](#testing-bizgen)
+- [Testing](#testing-hybridlayout)
 
 ## Environment Setup
 
@@ -68,49 +66,11 @@ pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu118
 huggingface-cli login
 ```
 
-## Quick Start
+## ✨ Quick Start  
 Use inference.py to simply have a try:
 ```
 python inference.py
 ```
-
-## Testing BizGen
-
-### 1. Download Checkpoints
-
-Create a path `bizgen/checkpoints` and download the following [checkpoints](https://huggingface.co/PYY2001/BizGen) into this path.
-
-| Name | Description|
-|----------|-------------|
-| `byt5` | ByT5 model checkpoint |
-| `lora_infographic` | Unet LoRA weights and finetuned ByT5 mapper checkpoint for infographic |
-| `lora_slides` | Unet LoRA weights and finetuned ByT5 mapper checkpoint for slides |
-| `spo` | Post-trained SDXL checkpoint (for aesthetic improvement) |
-
-The downloaded checkpoints should be organized as follows:
-```
-checkpoints/
-├── byt5/
-│   ├── base.pt
-│   └── byt5_model.pt
-├── lora/
-|   ├── infographic/
-|   |   ├──byt5_mapper.pt
-|   |   └──unet_lora.pt
-|   └── slides/
-|       ├──byt5_mapper.pt
-|       └──unet_lora.pt
-└── spo
-```
-
-### 2. Run the testing Script
-```bash
-python inference.py \
---ckpt_dir checkpoints/lora/infographic \
---output_dir infographic \
---sample_list meta/infographics.json 
-```
-
 
 ## :mailbox_with_mail: Citation
 If you find this code useful in your research, please consider citing:
