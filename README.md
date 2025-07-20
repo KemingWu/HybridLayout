@@ -1,6 +1,6 @@
 <h1 align="center">Hybrid Layout Control for Diffusion Transformer: Fewer Annotations, Superior Aesthetics</h1>
 
-<div style="font-size: 1.25rem; text-align: center;">
+<div align="center" style="font-size: 1.25rem; text-align: center;">
   <a href="https://kemingwu.github.io/" target="_blank">Keming Wu</a><sup>1*</sup>,
   <a href="https://www.microsoft.com/en-us/research/" target="_blank">Junwen Chen</a><sup>3*</sup>,
   <a href="https://www.microsoft.com/en-us/research/" target="_blank">Zhanhao Liang</a><sup>2*</sup>,
@@ -11,7 +11,7 @@
   <a href="https://www.microsoft.com/en-us/research/people/yuyua/" target="_blank">Yuhui Yuan</a><sup>6*</sup>
 </div>
 
-<div style="font-size: 1rem; text-align: center; margin-top: 0.5rem;">
+<div align="center" style="font-size: 1rem; text-align: center; margin-top: 0.5rem;">
   <sup>1</sup>Tsinghua University &emsp;
   <sup>2</sup>The Australian National University &emsp;
   <sup>3</sup>The University of Electro-Communications Tokyo &emsp;
@@ -20,7 +20,7 @@
   <sup>6</sup>Canva Research
 </div>
 
-<div style="font-size: 0.9rem; text-align: center; margin-top: 0.3rem;">
+<div align="center" style="font-size: 0.9rem; text-align: center; margin-top: 0.3rem;">
   <sup>*</sup>Work done at Microsoft Research Asia
 </div>
 
