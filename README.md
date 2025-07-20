@@ -29,7 +29,8 @@
 ## :fire: News
 
 - [2025/7/20] Repository is initialized.
-- [2025/6/26] 🎉🎉🎉 HybridLayout is accepted by ICCV 2025!
+- [2025/6/26] <span style="color: red; font-weight: bold;">🎉🎉🎉 HybridLayout is accepted by <span style="color: red; font-weight: bold;">ICCV 2025</span>!</span>
+
 
 
 <!-- TODO List -->
