@@ -17,7 +17,7 @@
   <sup>3</sup>The University of Electro-Communications Tokyo &emsp;
   <sup>4</sup>Peking University &emsp;
   <sup>5</sup>Microsoft&emsp;
-  <sup>6</sup>Canva Research
+  <sup>6</sup>Canva
 </div>
 
 <div align="center" style="font-size: 0.9rem; text-align: center; margin-top: 0.3rem;">
