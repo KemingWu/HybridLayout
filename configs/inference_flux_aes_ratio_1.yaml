@@ -1,0 +1,14 @@
+# config.yaml
+
+version: "final_release"
+name: "inference_flux_aes_ratio_1"
+seed: 42
+max_layer_num: 52
+cases: 5000
+num_inference_steps: 50
+use_mask: True
+attn_type: "interact"
+use_true_cfg: True
+
+pretrained_model_name_or_path: "black-forest-labs/FLUX.1-dev"
+ckpt_dir: "./checkpoints/hybrid_layout_flux/aes_ratio_1"

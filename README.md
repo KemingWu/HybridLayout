@@ -80,11 +80,10 @@ conda activate hybrid_layout
 ```bash
 git clone https://github.com/KemingWu/HybridLayout.git
 cd HybridLayout
-conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0  pytorch-cuda=11.8 -c pytorch -c nvidia -y
-pip install diffusers==0.31.0 transformers==4.44.0 accelerate==0.34.2 peft==0.12.0 datasets==2.20.0 prodigyopt
-pip install wandb==0.17.7 einops==0.8.0 sentencepiece==0.2.0 mmengine==0.10.4
-pip install braceexpand==0.1.7 webdataset==0.2.100
-pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu118
+pip install uv
+uv pip install --pre -U xformers
+uv pip install diffusers==0.31.0 transformers==4.44.0
+uv pip install mmengine
 ```
 
 ### 3. Login to Hugging Face
@@ -93,10 +92,8 @@ huggingface-cli login
 ```
 
 ## ✨ Quick Start  
-Use inference.py to simply have a try:
-```
-python inference.py
-```
+Use our [inference.ipynb](inference.ipynb) to simply have a try
+
 ## 🔥 Contact
 If you have any questions, please feel free to contact [Keming Wu](https://kemingwu.github.io/) and [Yuhui Yuan](researcher.yuanyuhui@gmail.com).
 
