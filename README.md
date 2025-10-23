@@ -27,7 +27,7 @@
 <h3 align="center">🌟ICCV 2025🌟</h3>
 
 <p align="center">
-  <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='PDF'></a>
+  <a href=""><img src='https://img.shields.io/badge/PDF-Paper-red?logo=arxiv&logoColor=white' alt='PDF'></a>
   <a href='https://hybrid-layout-msra.github.io/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
   <a href='https://huggingface.co/wukeming11/HybridLayout'><img src='https://img.shields.io/badge/Model-Huggingface-yellow?logo=huggingface&logoColor=yellow' alt='Model'></a>
 
