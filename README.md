@@ -101,5 +101,12 @@ If you have any questions, please feel free to contact [Keming Wu](https://kemin
 If you find this code useful in your research, please consider citing:
 
 ```
-
+@InProceedings{Wu_2025_ICCV,
+    author    = {Wu, Keming and Chen, Junwen and Liang, Zhanhao and Wang, Yinuo and Li, Ji and Zhang, Chao and Wang, Bin and Yuan, Yuhui},
+    title     = {Hybrid Layout Control for Diffusion Transformer: Fewer Annotations, Superior Aesthetics},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {17930-17940}
+}
 ```
