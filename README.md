@@ -27,7 +27,7 @@
 <h3 align="center">🌟ICCV 2025🌟</h3>
 
 <p align="center">
-  <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+  <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='PDF'></a>
   <a href='https://hybrid-layout-msra.github.io/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
   <a href='https://huggingface.co/wukeming11/HybridLayout'><img src='https://img.shields.io/badge/Model-Huggingface-yellow?logo=huggingface&logoColor=yellow' alt='Model'></a>
 
@@ -101,12 +101,11 @@ If you have any questions, please feel free to contact [Keming Wu](https://kemin
 If you find this code useful in your research, please consider citing:
 
 ```
-@InProceedings{Wu_2025_ICCV,
-    author    = {Wu, Keming and Chen, Junwen and Liang, Zhanhao and Wang, Yinuo and Li, Ji and Zhang, Chao and Wang, Bin and Yuan, Yuhui},
-    title     = {Hybrid Layout Control for Diffusion Transformer: Fewer Annotations, Superior Aesthetics},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2025},
-    pages     = {17930-17940}
+@inproceedings{wu2025hybrid,
+  title={Hybrid Layout Control for Diffusion Transformer: Fewer Annotations, Superior Aesthetics},
+  author={Wu, Keming and Chen, Junwen and Liang, Zhanhao and Wang, Yinuo and Li, Ji and Zhang, Chao and Wang, Bin and Yuan, Yuhui},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={17930--17940},
+  year={2025}
 }
 ```
